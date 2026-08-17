@@ -7,10 +7,6 @@
 
   Practise realistic interviews, strengthen every answer, and review actionable feedback—without sending your interview data to the cloud.
 
-  [![Offline Ready](https://img.shields.io/badge/Offline-Ready-19B394)](#how-it-works)
-  [![Interview Modes](https://img.shields.io/badge/Interview%20Modes-4-1769FF)](#highlights)
-  [![Question Bank](https://img.shields.io/badge/Question%20Bank-240%2B-7C3AED)](#highlights)
-  [![Explainable Scoring](https://img.shields.io/badge/Scoring-Explainable-F59E0B)](#highlights)
 </div>
 
 ---
