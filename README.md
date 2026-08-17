@@ -7,10 +7,10 @@
 
   Practise realistic interviews, strengthen every answer, and review actionable feedback—without sending your interview data to the cloud.
 
-  [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-  [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-  [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-19B394)](#getting-started)
-  [![Privacy](https://img.shields.io/badge/privacy-local--first-10233F)](#privacy-first-by-design)
+  [![Offline Ready](https://img.shields.io/badge/Offline-Ready-19B394)](#how-it-works)
+  [![Interview Modes](https://img.shields.io/badge/Interview%20Modes-4-1769FF)](#highlights)
+  [![Question Bank](https://img.shields.io/badge/Question%20Bank-240%2B-7C3AED)](#highlights)
+  [![Explainable Scoring](https://img.shields.io/badge/Scoring-Explainable-F59E0B)](#highlights)
 </div>
 
 ---
